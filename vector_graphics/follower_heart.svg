@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="75"
+   height="75"
+   viewBox="0 0 19.843749 19.843751"
+   version="1.1"
+   id="svg1065"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="follower_heart.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1067"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:zoom="5.3664983"
+     inkscape:cx="63.262854"
+     inkscape:cy="19.845343"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1062" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-98.146114,-104.91029)">
+    <path
+       style="color:#000000;fill:#080100;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+       d="m 103.78711,105.26172 a 0.66152446,0.66152446 0 0 0 -0.5293,0.26758 l -4.980466,6.68359 a 0.66152446,0.66152446 0 0 0 0.02148,0.81836 l 9.259762,11.13281 a 0.66152446,0.66152446 0 0 0 1.01758,0 l 9.26172,-11.13281 a 0.66152446,0.66152446 0 0 0 0.0215,-0.81836 l -4.98243,-6.68359 a 0.66152446,0.66152446 0 0 0 -1.05664,-0.006 l -3.75195,4.95312 -3.75195,-4.95312 a 0.66152446,0.66152446 0 0 0 -0.5293,-0.26172 z m 0.006,1.76172 3.74805,4.94922 a 0.66152446,0.66152446 0 0 0 1.05468,0 l 3.74805,-4.94727 4.14258,5.56055 -8.41797,10.12109 -8.419923,-10.12109 z"
+       id="path42741-0" />
+  </g>
+</svg>
